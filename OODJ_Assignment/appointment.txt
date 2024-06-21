@@ -1,0 +1,2 @@
+S006:Sigrun:Female:20:PA0940448:0123456789:sigrun@gmail.com:2022-02-18:2022-03-01:XL001:Kitchen Equipment:Rice Cooker:2022-02-21:2022-02-24:9.00 AM:Miranda:
+S007:Nathaniel:Male:22:PA0940449:0123456789:nathaniel@gmail.com:2022-02-18:2022-08-08:L002:Heating and Cooling Equipment:Air Conditioner:2022-02-18:2022-02-21:9.00 AM:Garrus:

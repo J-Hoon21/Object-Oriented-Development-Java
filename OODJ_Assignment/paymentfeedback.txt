@@ -1,0 +1,5 @@
+S001:Morrigan:Female:21:PA0940443:0123456789:morrigan@gmail.com:Kitchen Equipment:Rice Cooker:Miranda:2022-02-21:20:15:Cash:Paid:5 - Very Good:No comment
+S002:Sten:Male:24:PA0940444:0123456789:sten@gmail.com:Cleaning Equipment:Vaccumn:Kasumi:2022-02-21:20:20:Cash:Paid:4 - Good:No Comment
+S003:Leliana:Female:22:PA0940445:0123456789:leliana@gmail.com:Cleaning Equipment:Vaccumn:Kasumi:2022-02-21:30:20:Banking:Paid:5 - Very Good:Positive attitude
+S004:Alistair:Male:21:PA0940446:0123456789:alistair@gmail.com:Entertainment Centers:Radio:James:2022-02-21:20:20:Cash:Not Paid:4 - Good:Good service
+S005:Wynne:Female:24:PA0940447:0123456789:wynne@gmail.com:Entertainment Centers:Radio:James:2022-02-21:10:10:Cash:Paid:5 - Very Good:A hardworking technician

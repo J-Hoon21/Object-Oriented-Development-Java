@@ -1,0 +1,5 @@
+Miranda:Female:36:31195855:0123456789:mirandalawson@gmail.com:Kitchen Equipment:miri
+Kasumi:Female:26:31195856:0123456789:missgoto@gmail.com:Cleaning Equipment:kasumi
+Garrus:Male:29:31195857:0123456789:vakarian@gmail.com:Heating and Cooling Equipment:garrus
+Tali:Female:24:31195858:0123456789:clanzorah@gmail.com:Air Purifiers:tali
+James:Male:29:31195859:0123456789:vega@gmail.com:Entertainment Centers:james

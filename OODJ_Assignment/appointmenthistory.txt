@@ -1,0 +1,5 @@
+S001:Morrigan:Female:21:PA0940443:0123456789:morrigan@gmail.com:2022-02-18:2022-03-31:S001:Kitchen Equipment:Rice Cooker:2022-02-18:2022-02-21:9.00 AM:Miranda
+S002:Sten:Male:24:PA0940444:0123456789:sten@gmail.com:2022-02-18:2022-03-30:S002:Cleaning Equipment:Vaccumn:2022-02-18:2022-02-21:12.00 PM:Kasumi
+S003:Leliana:Female:22:PA0940445:0123456789:leliana@gmail.com:2022-02-18:2022-04-01:M001:Cleaning Equipment:Vaccumn:2022-02-18:2022-02-21:3.00 PM:Kasumi
+S004:Alistair:Male:21:PA0940446:0123456789:alistair@gmail.com:2022-02-18:2022-06-01:L001:Entertainment Centers:Radio:2022-02-18:2022-02-21:3.00 PM:James
+S005:Wynne:Female:24:PA0940447:0123456789:wynne@gmail.com:2022-02-18:2023-02-18:S005:Entertainment Centers:Radio:2022-02-18:2022-02-21:9.00 AM:James
